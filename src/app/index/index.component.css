@@ -1,0 +1,30 @@
+p{
+    color: rgb(35, 34, 34);
+}
+.company-logo img{
+    /* width: 100px;
+    height: 100px; */
+    object-fit: cover;
+}
+.msg {
+  margin-top: 20px;
+  padding: 12px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.success {
+  background: #d4edda;
+  color: green;
+}
+.error {
+  background: #f8d7da;
+  color: red;
+}
+small {
+   /* color: #fff; */
+  color: red;
+  font-weight: 500;
+  display: block;
+  margin-top: 6px;
+}

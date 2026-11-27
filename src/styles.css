@@ -1,0 +1,4 @@
+/* Global overrides for the ProMan portfolio template. */
+html { scroll-behavior: smooth; }
+body { overflow-x: hidden; }
+img { max-width: 100%; }
